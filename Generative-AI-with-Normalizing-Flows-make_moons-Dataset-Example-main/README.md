@@ -81,13 +81,13 @@ This is the tale of the mysterious shop of JACOB'S, where artistry and innovatio
 
 ## Absolute Value of the Determinant
 - The determinant can be positive or negative. Taking the absolute value ensures we consider the relative change in volume or area without regard to the direction of the transformation.
-![Expaination of Probablity Distribution](https://github.com/prateekghorawat/Generative-AI-with-Normalizing-Flows-make_moons-Dataset-Example/blob/main/Images/Jabobian_Graph.png)
+![Expaination of Probablity Distribution](https://github.com/prateekghorawat/Generative-AI/blob/main/Generative-AI-with-Normalizing-Flows-make_moons-Dataset-Example-main/Images/Jabobian_Graph.png)
 
 
 ---
 
 # Understanding Probability Distribution Transformations
-![realnvp.png](https://github.com/prateekghorawat/Generative-AI-with-Normalizing-Flows-make_moons-Dataset-Example/blob/main/Images/formula.png)
+![realnvp.png](https://github.com/prateekghorawat/Generative-AI/blob/main/Generative-AI-with-Normalizing-Flows-make_moons-Dataset-Example-main/Images/formula.png)
 ## Equation: The Change of Variables Equation
 - **Equation** is a fundamental tool in probability theory, describing how a probability distribution, pX, over variables x, relates to a transformed distribution, pZ, over variables z.
 
