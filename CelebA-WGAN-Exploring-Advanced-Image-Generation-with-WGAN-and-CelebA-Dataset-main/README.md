@@ -100,7 +100,7 @@ strong, not because the discriminator is weak.**
 
 ---
 
-![image](https://github.com/prateekghorawat/CelebA-WGAN-Exploring-Advanced-Image-Generation-with-WGAN-and-CelebA-Dataset/blob/main/Images/photo1.png)
+![image](https://github.com/prateekghorawat/Generative-AI/blob/main/CelebA-WGAN-Exploring-Advanced-Image-Generation-with-WGAN-and-CelebA-Dataset-main/Images/photo1.png)
 
 ---
 
@@ -307,8 +307,8 @@ The WGAN-GP method calculates the gradient at these interpolated points. If the 
 
 * By doing this, the model is encouraged to have a smoother transition between real and fake images, which helps in generating more realistic and coherent images without dramatic changes from one image to the next. This makes the training process more stable and efficient.
 
-![image](https://github.com/prateekghorawat/CelebA-WGAN-Exploring-Advanced-Image-Generation-with-WGAN-and-CelebA-Dataset/blob/main/Images/photo2.png)
-![image](https://github.com/prateekghorawat/CelebA-WGAN-Exploring-Advanced-Image-Generation-with-WGAN-and-CelebA-Dataset/blob/main/Images/photo3.png)
+![image](https://github.com/prateekghorawat/Generative-AI/blob/main/CelebA-WGAN-Exploring-Advanced-Image-Generation-with-WGAN-and-CelebA-Dataset-main/Images/photo2.png)
+![image](https://github.com/prateekghorawat/Generative-AI/blob/main/CelebA-WGAN-Exploring-Advanced-Image-Generation-with-WGAN-and-CelebA-Dataset-main/Images/photo3.png)
 
 ---
 
