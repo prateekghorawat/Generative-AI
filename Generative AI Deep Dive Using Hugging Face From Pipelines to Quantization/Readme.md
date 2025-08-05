@@ -2,7 +2,7 @@
 
 This repository is the result of my hands-on exploration and learning journey with Hugging Face—one of the world’s leading platforms for natural language processing, generative AI, and modern machine learning. Through this notebook, I demonstrate a range of tasks, experiments, and best practices that showcase my understanding of both foundational and advanced AI concepts.
 
-## 🚀 What’s Inside
+## What’s Inside
 
 This project is a comprehensive, example-driven guide covering the following topics:
 
